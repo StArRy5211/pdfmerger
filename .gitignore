@@ -1,5 +1,6 @@
 node_modules
 distribution
 source/pdfmerger/target
-jar/original-pdfmerger.jar
+jar/pdfmerger-*.jar
 .DS_Store
+.idea
